@@ -14,15 +14,27 @@ If students need help, they are free to reach out to me by course approved metho
 
 ## Teaching History
 
-- DATA1001: Introduction to Data Science, *Demonstrator, University of Sydney (2022)* 🇦🇺
+### Secondary
 
-- CIT5950: Systems Programming, *Teaching Assistant, University of Pennsylvanaia (2023)* 🇺🇸
+- Library Tutor; *The King's School (2020-2022)* 🇦🇺
 
-- Wharton Moneyball Training Camp Flex, *Teaching Assitant, University of Pennsylvanaia (2023)* 🇺🇸
+- Gowan Brae (Year 7) Boarding Patron; *The King's School (2020-2021)* 🇦🇺
 
-- DATA1001: Introduction to Data Science, *Tutor, University of Sydney (2023)* 🇦🇺
+- Senior House (Years 8 - 12) Boarding Patron; *The King's School (2023-)* 🇦🇺
 
-- MATH1005: Statistial Thinking with Data, *Tutor, University of Sydney (2023)* 🇦🇺
+- Private Tutor *(2020 - )* 🇦🇺
+
+### Tertiary
+
+- DATA1001: Introduction to Data Science; *Demonstrator, University of Sydney (2022)* 🇦🇺
+
+- CIT5950: Systems Programming; *Teaching Assistant, University of Pennsylvanaia (2023)* 🇺🇸
+
+- Wharton Moneyball Training Camp Flex; *Teaching Assitant, University of Pennsylvanaia (2023)* 🇺🇸
+
+- DATA1001: Introduction to Data Science; *Tutor, University of Sydney (2023)* 🇦🇺
+
+- MATH1005: Statistial Thinking with Data; *Tutor, University of Sydney (2023)* 🇦🇺
 
 ## Personal Links
 
