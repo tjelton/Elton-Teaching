@@ -32,6 +32,6 @@ nav_order: 3
 
 Week | Slides | Class Notes | Misc. | Further Learning | Assessments
 :---|:---|:---|:---|:---|:---
-Week 1<br>(Aug 31) | [Introduction](https://drive.google.com/file/d/1FiTEjBrwTm69vT5pnR4txzlInn_IOTba/view?usp=drive_link)<br>[Lab 1](https://drive.google.com/file/d/1CwGJdeN8QC82dt4ZDJO-mEkZikKDJ5_y/view?usp=sharing) | Uploaded after class | -- | -- | Evaluate quiz 1 (Aug 6)
+Week 1<br>(Jul 31) | [Introduction](https://drive.google.com/file/d/1FiTEjBrwTm69vT5pnR4txzlInn_IOTba/view?usp=drive_link)<br>[Lab 1](https://drive.google.com/file/d/1CwGJdeN8QC82dt4ZDJO-mEkZikKDJ5_y/view?usp=sharing) | Uploaded after class | -- | -- | Evaluate quiz 1 (Aug 6)
 Week 2<br>(Aug 7) | -- | -- | -- | -- | Evaluate quiz 2 (Aug 13)
 Week 3<br>(Aug 14) | -- | -- | Regular tutor back to campus. | -- | --
