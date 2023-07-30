@@ -1,4 +1,4 @@
-![image](https://github.com/tjelton/Elton-Teaching/assets/99704817/15482b47-077b-4c19-b5ff-bc128bbc80c2)---
+---
 layout: default
 title: MATH1005 Wed 10am S2
 parent: 2023
