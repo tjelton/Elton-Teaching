@@ -7,9 +7,23 @@ nav_order: 4
 
 # MATH1005 Wednesady 10am Semester 2
 
+{: .warning }
+> Assessment Dates
+>
+> Rough assessment dates have been provided below. These have been added purely to help you have an idea about what is coming up. These assessment dates should not be taken as fact. It is on the onus of students to check Canvas, EdStem and the Unit of Study outline.
 
+{: .note }
+> Extra Help/Staff Contact
+>
+> Any extra help about course material should be asked on EdStem. Students are free to email with personal issues, but questions about content will be redirected to EdStem.
 
-Week | Slides | Class Notes/Files | Miscellaneous | Further Reading/Learning | Assessments
+### Important Links
+
+- Canvas (Coming soon...)
+
+- [Unit of Study Outline](https://www.sydney.edu.au/units/MATH1005/2023-S2C-ND-CC)
+
+Week | Slides | Class Notes | Misc. | Further Learning | Assessments
 :---|:---|:---|:---|:---|:---
 Week 1<br>(2 Aug) | Coming soon | Uploaded after class | -- | -- | Assessment dates may be posted here.
 Week 2<br>(9 Aug) | -- | -- | -- | -- | --
