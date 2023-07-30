@@ -24,14 +24,6 @@ If students need help, they are free to reach out to me by course approved metho
 
 - MATH1005: Statistial Thinking with Data, *Tutor, University of Sydney (2023)* 🇦🇺
 
-## Conferences and Symposiums
-
-Chetcuti, A., Elton, T. J. (2022) [Sharing experience between an early casual teaching fellow and an experienced casual teaching fellow – Thomas James Elton (Mathematics), Anthony Chetcuti (Chemistry)](https://github.com/tjelton/tjelton/blob/main/Resources/Other/Symposium%202022%20Timetable.pdf) *Science Educators Community of Practice*, University of Sydney (Australia).
-
-Chetcuti, A., Elton, T. J., George-Williams, S., Harianto, J., Johnston, H. (2022) [Panel Discussion: Unearthing the collective wisdom of our casual teaching staff](https://github.com/tjelton/tjelton/blob/main/Resources/Other/Symposium%202022%20Timetable.pdf) *Science Educators Community of Practice*, University of Sydney (Australia).
-
-Moller, J., Wilkinson, S., Elton, T. J., George-Williams, S., Pullen, R. (2022). [How can we utilise digital 3D modelling tools to support the development of chemistry students?](https://tjelton.github.io/STANSW-Stage-6-Conference-3D-modelling-session-2022/index.html) *Stage 6 Conference 2022: a Deep Dive Into ST6 Pedagogy*, Online.teaching staff Science Educators Community of Practice, University of Sydney (Australia).
-
 ## Personal Links
 
 - [Linkedin](https://www.linkedin.com/in/thomas-elton-a86aaa215/)
