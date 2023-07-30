@@ -6,3 +6,9 @@ url: https://tjelton.github.io/Elton-Teaching
 
 aux_links:
   Personal Website: https://tjelton.com/
+
+callouts:
+  warning:
+    color: red
+  note:
+    color: green 
