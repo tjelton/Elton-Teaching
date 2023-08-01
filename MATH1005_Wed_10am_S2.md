@@ -19,7 +19,7 @@ nav_order: 4
 
 ### Important Links
 
-- Canvas (Coming soon...)
+- [Canvas](https://canvas.sydney.edu.au/courses/53110)
 
 - [Unit of Study Outline](https://www.sydney.edu.au/units/MATH1005/2023-S2C-ND-CC)
 
@@ -27,7 +27,7 @@ nav_order: 4
 
 Week | Slides | Class Notes | Misc. | Further Learning | Assessments
 :---|:---|:---|:---|:---|:---
-Week 1<br>(Aug 2) | Coming soon | Uploaded after class | -- | -- | Assessment dates may be posted here.
+Week 1<br>(Aug 2) | [Introduction](https://drive.google.com/file/d/1FiTEjBrwTm69vT5pnR4txzlInn_IOTba/view?usp=drive_link) | Uploaded after class | -- | -- | RQuiz1: Design of Experiments (Aug 6)
 Week 2<br>(Aug 9) | -- | -- | -- | -- | --
 Week 3<br>(Aug 16) | -- | -- | -- | -- | --
 Week 4<br>(Aug 23) | -- | -- | -- | -- | --
