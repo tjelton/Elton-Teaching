@@ -6,6 +6,7 @@ nav_order: 5
 ---
 
 # MATH1005 Wednesady 11am Semester 2
+
 {: .warning }
 > **Assessment Dates**
 >
@@ -18,7 +19,9 @@ nav_order: 5
 
 ### Important Links
 
-- Canvas (Coming soon...)
+- [Canvas](https://canvas.sydney.edu.au/courses/53110)
+
+- [Lecture Resources](https://canvas.sydney.edu.au/courses/53110/pages/class-resources?module_item_id=2017075)
 
 - [Unit of Study Outline](https://www.sydney.edu.au/units/MATH1005/2023-S2C-ND-CC)
 
@@ -26,7 +29,7 @@ nav_order: 5
 
 Week | Slides | Class Notes | Misc. | Further Learning | Assessments
 :---|:---|:---|:---|:---|:---
-Week 1<br>(Aug 2) | [Introduction](https://drive.google.com/file/d/1FiTEjBrwTm69vT5pnR4txzlInn_IOTba/view?usp=drive_link) | Uploaded after class | -- | -- | RQuiz1: Design of Experiments (Aug 6)
+Week 1<br>(Aug 2) | [Introduction](https://drive.google.com/file/d/1FiTEjBrwTm69vT5pnR4txzlInn_IOTba/view?usp=drive_link) | [Lab Sheet From Class](https://drive.google.com/file/d/1IwqmNnL-xc1MXMT9AeUARLU22_fTU_x8/view?usp=drive_link)| -- | [Britannica Simpson’s Paradox Article](https://www.britannica.com/topic/Simpsons-paradox)<br>[R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) | RQuiz1: Design of Experiments (Aug 6)
 Week 2<br>(Aug 9) | -- | -- | -- | -- | --
 Week 3<br>(Aug 16) | -- | -- | -- | -- | --
 Week 4<br>(Aug 23) | -- | -- | -- | -- | --
