@@ -30,7 +30,7 @@ nav_order: 4
 Week | Slides | Class Notes | Misc. | Further Learning | Assessments
 :---|:---|:---|:---|:---|:---
 Week 1<br>(Aug 2) | [Introduction](https://drive.google.com/file/d/1FiTEjBrwTm69vT5pnR4txzlInn_IOTba/view?usp=drive_link) | [Lab Sheet From Class](https://drive.google.com/file/d/10FNQzetqZ41YeAWGqgHmh4TdUtI3l83K/view?usp=drive_link)| -- | [Britannica Simpson’s Paradox Article](https://www.britannica.com/topic/Simpsons-paradox)<br>[R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) | RQuiz1: Design of Experiments (Aug 6)
-Week 2<br>(Aug 9) | [Lab 2](https://drive.google.com/file/d/1EELFKarXcH3uB4qTQOFAmwfo8HI6HeNt/view?usp=drive_link) | [Lab Sheet From Class](https://drive.google.com/file/d/1EdMhKbv2nQpQD9dj5oaPt324il9U1C8_/view?usp=drive_link) | Please see below for notes and clarifications from todays lab. | [Article on how to pick the right chart type](https://eazybi.com/blog/data-visualization-and-chart-types#pie-charts-and-donut-charts)<br>[Interpreting skewness from a boxplot](https://www.simplypsychology.org/boxplots.html#:~:text=Box%20plots%20are%20useful%20as%20they%20show%20the%20skewness%20of%20a%20data%20set&text=When%20the%20median%20is%20closer%20to%20the%20top%20of%20the,negatively%20skewed%20(skewed%20left).) |  RQuiz2: Data & Graphical Summaries (Aug 13)
+Week 2<br>(Aug 9) | [Lab 2](https://drive.google.com/file/d/1EELFKarXcH3uB4qTQOFAmwfo8HI6HeNt/view?usp=drive_link) | [Lab Sheet From Class](https://drive.google.com/file/d/1EdMhKbv2nQpQD9dj5oaPt324il9U1C8_/view?usp=drive_link)<br>*Please read clarification 3, as part of the lab sheet contains incorrect information.* | Please see below for notes and clarifications from todays lab. | [Article on how to pick the right chart type](https://eazybi.com/blog/data-visualization-and-chart-types#pie-charts-and-donut-charts)<br>[Interpreting skewness from a boxplot](https://www.simplypsychology.org/boxplots.html#:~:text=Box%20plots%20are%20useful%20as%20they%20show%20the%20skewness%20of%20a%20data%20set&text=When%20the%20median%20is%20closer%20to%20the%20top%20of%20the,negatively%20skewed%20(skewed%20left).) |  RQuiz2: Data & Graphical Summaries (Aug 13)
 Week 3<br>(Aug 16) | -- | -- | -- | -- | --
 Week 4<br>(Aug 23) | -- | -- | -- | -- | --
 Census Date<br>(Aug 31) | -- | -- | Last day to drop a unit without incurring financial or academic penalty. | -- | --
@@ -49,11 +49,9 @@ Week 13<br>(Nov 1) | -- | -- | Last week of classes. | -- | --
 STUVAC<br>(Nov 6-10) | -- | -- | Study vacation. | -- | --
 Exam Period<br>(Nov 13-25) | -- | -- | Exam data to be released by the University. | -- | --
 
-### Notes/Clarifications
-
 ----
 
-#### **Week 2**
+### **Week 2: Notes/Clarifications**
 
 <br>
 
