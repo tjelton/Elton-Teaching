@@ -51,7 +51,11 @@ Exam Period<br>(Nov 13-25) | -- | -- | Exam data to be released by the Universit
 
 ### Notes/Clarifications
 
-#### Week 2
+----
+
+#### **Week 2**
+
+<br>
 
 **<u>Clarification 1</u>**
 
@@ -84,3 +88,5 @@ How does this work? Well, the main thing is that we need to tell R how we want t
 To visualise what this plot looks like you can check out 2.0.2 of the "Lab Sheet From Class" in the "Class Notes" section of week 2.
 
 There is one more boxplot in the explore section, but try this out youself! We'll go through it next tutorial.
+
+----
