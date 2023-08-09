@@ -30,7 +30,7 @@ nav_order: 5
 Week | Slides | Class Notes | Misc. | Further Learning | Assessments
 :---|:---|:---|:---|:---|:---
 Week 1<br>(Aug 2) | [Introduction](https://drive.google.com/file/d/1FiTEjBrwTm69vT5pnR4txzlInn_IOTba/view?usp=drive_link) | [Lab Sheet From Class](https://drive.google.com/file/d/1IwqmNnL-xc1MXMT9AeUARLU22_fTU_x8/view?usp=drive_link)| -- | [Britannica Simpson’s Paradox Article](https://www.britannica.com/topic/Simpsons-paradox)<br>[R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) | RQuiz1: Design of Experiments (Aug 6)
-Week 2<br>(Aug 9) | [Lab 2](https://drive.google.com/file/d/1TYPW6eEge26ax4dMqWFjTsd7ooKcRFyw/view?usp=drive_link) | -- | -- | -- | --
+Week 2<br>(Aug 9) | [Lab 2](https://drive.google.com/file/d/1EELFKarXcH3uB4qTQOFAmwfo8HI6HeNt/view?usp=drive_link) | [Lab Sheet From Class](https://drive.google.com/file/d/1z8E2rHpHhNJppu_ir1JrZ1vtp23lzMwS/view?usp=drive_link)<br>*Please read clarification 3* | Please see below for notes and clarifications from todays lab. | [Article on how to pick the right chart type](https://eazybi.com/blog/data-visualization-and-chart-types#pie-charts-and-donut-charts)<br>[Interpreting skewness from a boxplot](https://www.simplypsychology.org/boxplots.html#:~:text=Box%20plots%20are%20useful%20as%20they%20show%20the%20skewness%20of%20a%20data%20set&text=When%20the%20median%20is%20closer%20to%20the%20top%20of%20the,negatively%20skewed%20(skewed%20left).) |  RQuiz2: Data & Graphical Summaries (Aug 13)
 Week 3<br>(Aug 16) | -- | -- | -- | -- | --
 Week 4<br>(Aug 23) | -- | -- | -- | -- | --
 Census Date<br>(Aug 31) | -- | -- | Last day to drop a unit without incurring financial or academic penalty. | -- | --
@@ -48,3 +48,43 @@ Week 12<br>(Oct 25) | -- | -- | -- | -- | --
 Week 13<br>(Nov 1) | -- | -- | Last week of classes. | -- | --
 STUVAC<br>(Nov 6-10) | -- | -- | Study vacation. | -- | --
 Exam Period<br>(Nov 13-25) | -- | -- | Exam data to be released by the University. | -- | --
+
+----
+
+### **Week 2: Notes/Clarifications**
+
+<br>
+
+**<u>Clarification 1</u>**
+
+In the week 2 slides, on slide 10, the "qualitative" and "quantitative" labels in the flow chart were in the wrong location. The slides have been re-uploaded with the "qualtiative" and "quantitative" labels in the correct position.
+
+**<u>Clarification 2</u>**
+
+In the tutorial, I mentioned that we would soon be learning how to use ggplot to create our plots. This is actually **not** the case with MATH1005. If you are enjoying R and think that data science is something you would like to pursue, I would definetly recommend checking out ggplot!
+
+**<u>Clarification 3</u>**
+
+I was asked in class what ```las=2``` inside the barplot code does. This changes the x-axis category names to be vertical.
+
+I incorrectly said in class that this removes the column without a category name. This is incorrect! The reason why there apeared to be a missing title was that the string "Wednesday" was too long to be shown horizontally.
+
+**<u>Notes - Complex Boxplot</u>**
+
+In class, we didn't quite get enough time to finish some of the harder plotting questions. One such question was regarding investigating the pattern between "age" and "crash type". Here we are considering one quantiative variable (age), and one qualitative variable (crash type). This means that boxplots would be a good choice.
+
+The first thing we do is select the "age" data: ```age = road$Age```
+
+Now, if we were to run ```class(age)```, we would see that the age list is of type character (which implies it is currently a qualitative variable). We actually want to change it to a numeric variable, and we can do that by running, ```ageN = as.numeric(age)```. We now have a variable called ```ageN``` which stores the ages as a numeric type.
+
+We also need to extract the crash type, which we can do by: ```crash_type = road$Crash_Type```
+
+Now we can create the boxplot using the following code: ```boxplot(ageN ~ crash_type, horizontal=T, col=c("light blue", "light green", "light pink"), main = "Age distribution by crash type")```
+
+How does this work? Well, the main thing is that we need to tell R how we want the boxplots to be formed. ```ageN ~ crash_type``` informs R that we want "ageN" to be the value that we are finding the distribution of, and we want to seperate the ages by ```crash_type```. The other parameters should be fairly straight forward to understand - if they're not, change them and see what happens!
+
+To visualise what this plot looks like you can check out 2.0.2 of the "Lab Sheet From Class" in the "Class Notes" section of week 2.
+
+There is one more boxplot in the explore section, but try this out youself! We'll go through it next tutorial.
+
+----
