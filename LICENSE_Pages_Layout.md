@@ -1,3 +1,5 @@
+***The MIT License is for the theme layout only. Please refer to README.md for more information.***
+
 MIT License
 
 Copyright (c) 2022 just-the-docs
