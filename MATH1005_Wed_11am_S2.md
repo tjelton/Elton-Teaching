@@ -36,9 +36,9 @@ Week 4<br>(Aug 23) | [Lab 4](https://drive.google.com/file/d/1-TRha3Uk7VE39V_o9p
 Week 5<br>(Aug 30) | No slides this week. Please scroll below for week 5 notes | [Lab sheet from class](https://drive.google.com/file/d/1EvlQYp9FHhr3ghBsKalnLirxutIhMOo7/view?usp=drive_link) | -- | -- | RQuiz5: Linear Model (Sep 3)
 Census Date<br>(Aug 31) | -- | -- | Last day to drop a unit without incurring financial or academic penalty. | -- | --
 Week 6<br>(Sep 6) | -- | [Lab sheet from class](https://drive.google.com/file/d/1GC6HlQSUFoVowcNFAsCYxEovIy3iIuHY/view?usp=drive_link)| -- | [Can computer's generate random numbers?](https://engineering.mit.edu/engage/ask-an-engineer/can-a-computer-generate-a-truly-random-number/) | RQuiz6: Understanding Chance (Sep 10)
-Week 7<br>(Sep 13) | -- | -- | -- | -- | --
-Week 8<br>(Sep 20) | -- | -- | -- | -- | --
-Assessment<br>(Sep 22) | -- | -- | -- | -- | Assignment 1
+Week 7<br>(Sep 13) | -- | [Lab sheet from class](https://drive.google.com/file/d/1f_iVXtWcZc5JfiWnuaZMEA_h4gYnW4ku/view?usp=drive_link)<br>[Box model question 1.1](https://drive.google.com/file/d/1AjY_WwuncjqKoymWR2qP4NZIzimTpeCO/view?usp=drive_link) | -- | See Week 7 Notes! | First Group Project Peer Review (Sep 14)<br>RQuiz7: Chance Variability (Sep 17)
+Week 8<br>(Sep 20) | -- | -- | -- | -- | Second Group Project Peer Review (Sep 22)<br>RQuiz8: Normal Approximation (Sep 24)
+Assessment<br>(Sep 22) | -- | -- | -- | -- | Group Project 1 Due
 Mid Semester Break<br>(Sep 25-29) | -- | -- | No class. | -- | --
 Week 9<br>(Oct 4) | -- | -- | -- | -- | --
 Week 10<br>(Oct 11) | -- | -- | -- | -- | --
@@ -91,6 +91,8 @@ There is one more boxplot in the explore section, but try this out youself! We'l
 
 ### **Week 5: Notes**
 
+<br>
+
 For the first part of the tutorial, we went through the group project. Here, I wanted to provide some broad thoughts about how to go about sourcing addition research in scientific reports.
 
 Whenever we write something in a scientific report that did not come from us, it's important that we also include a source to add some weight behind what we have just claimed. Citing is really important, because it shows that we didn't simply make up what we claimed.
@@ -114,5 +116,55 @@ There are many different referencing styles that you can use, but in this course
 - [Official USyd guide](https://libguides.library.usyd.edu.au/citation/apa7)
 
 - [Many exmaples here from Griffith University](https://www.griffith.edu.au/library/study/referencing/apa-7)
+
+----
+
+### **Week 7: Notes**
+
+<br>
+
+In the original lab sheet, we were told to use the ```multicon``` package to work out the population standard deviation. However, this package has become outdated, and is not suported in the newest versions of R (the versions we are using). Hence, we need to find some other way to work out the population sd. Here are some methods:
+
+**Method 1: Using the ```rafalib``` Library**
+
+I did not previously know that this option existed until we used it in another class that I teach. The ```rafalib``` library allows us to calculate the population standard deviation directly (it is a very easy method)!
+
+Before using this method, you first have to install the ```rafalib``` package. To do this, type the following into the console, and then press enter:
+
+> ```install.packages("rafalib")```
+
+Notice here the use of quotation marks around ```rafalib``` when installing the package.
+
+Now, to load in ```rafalib```, in an R-chunk towards the top of your R-Markdown document, type the following to load in the library:
+
+> ```library(rafalib)```
+
+Notice that this time we don't include the quotation marks around ```rafalib```. 
+
+To find the population sd of a list/vector/column of data, we type:
+
+> ```popsd(variable)```
+
+This is the method that I used in the "lab sheet from class" in the week 7 class notes section.
+
+When we have access to R, I would definetly recommend method 1 as the best of the three methods!
+
+**Method 2: Working out the Population SD by Hand**
+
+This is probably the most tiring of the option, but you could work out the population sd by using the formula (see this [article](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/a/population-and-sample-standard-deviation-review) -  the population sd part).
+
+From the example from class where we have a list of data with the numbers 0,0,0,1, the following would yield the population sd:
+
+> ```sqrt( ( (1-0.25)^2+ (0-0.25)^2+ (0-0.25)^2+ (0-0.25)^2 ) / 4 )```
+
+**Method 3: Multipy the Sample SD by a Factor**
+
+Another solution that you could use is to multiple the sample standard deviation (which is built into R) by the factor ```sqrt( (n-1) /n )```, where ```n``` is the number of elements in our population.
+
+Using the example from class with the population 0,0,0,1, in R, we can find the population sd by doing:
+
+> ```sqrt((4-1)/4) * sd(population)```
+
+Here, we use ```n = 4``` as we have four elements in our population.
 
 ----
