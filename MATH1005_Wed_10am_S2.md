@@ -40,8 +40,8 @@ Week 7<br>(Sep 13) | -- | [Lab sheet from class](https://drive.google.com/file/d
 Week 8<br>(Sep 20) | -- | -- | -- | -- | Second Group Project Peer Review (Sep 22)<br>RQuiz8: Normal Approximation (Sep 24)
 Assessment<br>(Sep 22) | -- | -- | -- | -- | Group Project 1 Due
 Mid Semester Break<br>(Sep 25-29) | -- | -- | No class. | -- | --
-Week 9<br>(Oct 4) | -- | -- | -- | -- | --
-Week 10<br>(Oct 11) | -- | -- | -- | -- | --
+Week 9<br>(Oct 4) | -- | -- | -- | -- | RQuiz9: Sample Survey + Bias (Oct 8)
+Week 10<br>(Oct 11) | -- | -- | -- | -- | RQuiz10: z-test (October 15)
 Week 11<br>(Oct 18) | -- | -- | -- | -- | --
 Assessment<br>(Oct 20) | -- | -- | -- | -- | Assignment 2
 Week 12<br>(Oct 25) | -- | -- | -- | -- | --
