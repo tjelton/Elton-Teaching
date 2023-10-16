@@ -37,11 +37,11 @@ Week 5<br>(Aug 30) | No slides this week. Please scroll below for week 5 notes |
 Census Date<br>(Aug 31) | -- | -- | Last day to drop a unit without incurring financial or academic penalty. | -- | --
 Week 6<br>(Sep 6) | -- | [Lab sheet from class](https://drive.google.com/file/d/1GC6HlQSUFoVowcNFAsCYxEovIy3iIuHY/view?usp=drive_link)| -- | [Can computer's generate random numbers?](https://engineering.mit.edu/engage/ask-an-engineer/can-a-computer-generate-a-truly-random-number/) | RQuiz6: Understanding Chance (Sep 10)
 Week 7<br>(Sep 13) | -- | [Lab sheet from class](https://drive.google.com/file/d/1f_iVXtWcZc5JfiWnuaZMEA_h4gYnW4ku/view?usp=drive_link)<br>[Box model question 1.1](https://drive.google.com/file/d/1AjY_WwuncjqKoymWR2qP4NZIzimTpeCO/view?usp=drive_link) | -- | See Week 7 Notes! | First Group Project Peer Review (Sep 14)<br>RQuiz7: Chance Variability (Sep 17)
-Week 8<br>(Sep 20) | -- | -- | -- | -- | Second Group Project Peer Review (Sep 22)<br>RQuiz8: Normal Approximation (Sep 24)
+Week 8<br>(Sep 20) | -- | [See Lab8Solution.html on Canvas](https://canvas.sydney.edu.au/courses/53110/files/33563678?wrap=1&fd_cookie_set=1)  | -- | -- | Second Group Project Peer Review (Sep 22)<br>RQuiz8: Normal Approximation (Sep 24)
 Assessment<br>(Sep 22) | -- | -- | -- | -- | Group Project 1 Due
 Mid Semester Break<br>(Sep 25-29) | -- | -- | No class. | -- | --
-Week 9<br>(Oct 4) | -- | -- | -- | -- | --
-Week 10<br>(Oct 11) | -- | -- | -- | -- | --
+Week 9<br>(Oct 4) | -- | [See Lab9Solution.html on Canvas](https://canvas.sydney.edu.au/courses/53110/files/33679720?wrap=1&fd_cookie_set=1) | -- | -- | RQuiz9: Sample Survey + Bias (Oct 8)
+Week 10<br>(Oct 11) | -- | [z-test question](https://drive.google.com/file/d/1vrrByTBQZEcLF0lL5-n1_8oRioswV4oM/view?usp=drive_link)<br>[Uber question](https://drive.google.com/file/d/17YLrIjBtQG3wbK7v-ZDg1ikU00gTpGKh/view?usp=drive_link) | -- | -- | RQuiz10: z-test (October 15)
 Week 11<br>(Oct 18) | -- | -- | -- | -- | --
 Assessment<br>(Oct 20) | -- | -- | -- | -- | Assignment 2
 Week 12<br>(Oct 25) | -- | -- | -- | -- | --
