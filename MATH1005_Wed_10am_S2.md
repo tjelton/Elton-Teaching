@@ -42,7 +42,7 @@ Assessment<br>(Sep 22) | -- | -- | -- | -- | Group Project 1 Due
 Mid Semester Break<br>(Sep 25-29) | -- | -- | No class. | -- | --
 Week 9<br>(Oct 4) | -- | [See Lab9Solution.html on Canvas](https://canvas.sydney.edu.au/courses/53110/files/33679720?wrap=1&fd_cookie_set=1) | -- | -- | RQuiz9: Sample Survey + Bias (Oct 8)
 Week 10<br>(Oct 11) | -- | [z-test question](https://drive.google.com/file/d/1QQSh04Q0KXPmksDLVtcl8zLOadoXlckm/view?usp=drive_link)<br>[Uber question](https://drive.google.com/file/d/1ImJlLU8NrIvUKooFLGR3k13cD41b36Qd/view?usp=drive_link) | -- | -- | RQuiz10: z-test (October 15)
-Week 11<br>(Oct 18) | -- | -- | -- | [How to include figure captions in RMarkdown](https://uoepsy.github.io/scs/rmd-bootcamp/06-figs.html#captions) | RQuiz11: t-test (October 22)
+Week 11<br>(Oct 18) | -- | [Caffeine Question](https://drive.google.com/file/d/1WItRgEKH6mGU79A1QZlJef25_3ajWjZj/view?usp=share_link)<br>[Vitamin-C Question](https://drive.google.com/file/d/1N_n-r9AFFS9mhdt5KJTb_kNfpLQmM4_E/view?usp=share_link)<br>[See Lab11Solution.html on Canvas](https://canvas.sydney.edu.au/courses/53110/files/33832807?wrap=1&fd_cookie_set=1) | [How to include figure captions in RMarkdown](https://uoepsy.github.io/scs/rmd-bootcamp/06-figs.html#captions) | -- | RQuiz11: t-test (October 22)
 Assessment<br>(Oct 20) | -- | -- | -- | -- | Individual Project 2 Due
 Week 12<br>(Oct 25) | -- | -- | -- | -- | --
 Week 13<br>(Nov 1) | -- | -- | Last week of classes. | -- | --
