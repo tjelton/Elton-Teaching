@@ -2,7 +2,7 @@
 layout: default
 title: MATH1062 Tue 2pm S1
 parent: 2025
-nav_order: 1
+nav_order: 2
 ---
 
 # MATH1062 Tuesday 2pm Semester 1
