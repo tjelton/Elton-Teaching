@@ -21,6 +21,6 @@ Please see the Google Doc [here](https://docs.google.com/document/d/1DIRwpYW_Vb5
 Week | Files | Miscellaneous | Further Learning |
 :---|:---|:---|:---|
 1 | No Lab | - | - |
-2 | Coming soon | - | - |
+2 | [RMarkdown_Demo.Rmd](https://drive.google.com/file/d/1lGwhN674jxRPxGnHIm3mPxM_VKJnEN3a/view?usp=drive_link)<br><br>[Worksheet_1.Rmd](https://drive.google.com/file/d/1GgEOJs5JyuBajyUHx0QfhPr72wQAx5Tg/view?usp=drive_link) | - | - |
 
 ----
