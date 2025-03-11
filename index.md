@@ -6,11 +6,15 @@ nav_order: 1
 
 # Welcome
 
-This is a webiste containing teaching resources for classes taught by Thomas Elton.
+Hi, this is a website containing teaching resources for classes taught by me (Thomas Elton).
 
-All content is provided for education purposes. Whilst I do my best to ensure that all information is up-to-date and accurate, I make no guarantees. It is on the onus of students to be dudiligent when using information on this website.
+The rationale behind this site:
 
-If students need help, they are free to reach out to me by course approved methods.
+1) By placing code on here after tutorials/labs, it means that students can focus on listening. When it comes to coding, my fear is that students will run into a bug whilst I'm demoing something and turn their attention to solving that bug. This could put them further behind, as they turn their attention from what I'm discussing.
+
+2) To provide extra resources (such as website links) to aid student learning.
+
+All content is provided for education purposes. Whilst I do my best to ensure that all information is up-to-date and accurate, I make no guarantees. 
 
 ## Teaching History
 
