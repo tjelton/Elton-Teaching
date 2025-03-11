@@ -7,15 +7,19 @@ nav_order: 1
 
 # MATH1062 Tuesday 12pm Semester 1
 
-{: .note title="Assessments"}
+{: .note}
+>**Assessments**
+>
 > For assessment dates, please stay up to date with EdStem announcements and Canvas announcements. For instructions regarding how assessments work for this unit of study, please refer to the unit of study outline [here](https://www.sydney.edu.au/units/MATH1062/2025-S1C-ND-CC).
 
 ### Lab Clarifications
 
 Please see the Google Doc [here](https://docs.google.com/document/d/1DIRwpYW_Vb5_NOzz3a6VVBduekBLo4gaNGXOyaKoBO8/edit?usp=sharing) where I will place clarifications when needed on lab content. For example, if I am a bit unsure of what a particular answer is, I may add it to this Google Doc after the lab.
 
-{: .important }
-> The code in the files below contains the exact code that I demonstrated during the lab. For more complete solutions, please be sure to view the solutions on Canvas that are released at the end of each week! 
+{: .important-title }
+> Important - Lab Demo Files
+>
+> The code in the lab demo files below is the exact code that I demonstrated during the lab. For more complete solutions, please be sure to view the solutions on Canvas released at the end of each week! 
 
 ### Calendar
 
