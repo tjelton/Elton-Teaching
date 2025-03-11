@@ -16,7 +16,9 @@ nav_order: 1
 
 Please see the Google Doc [here](https://docs.google.com/document/d/1DIRwpYW_Vb5_NOzz3a6VVBduekBLo4gaNGXOyaKoBO8/edit?usp=sharing) where I will place clarifications when needed on lab content. For example, if I am a bit unsure of what a particular answer is, I may add it to this Google Doc after the lab.
 
-{: .important }
+{: .warning }
+> **Important - Lab Demo Files**
+>
 > The code in the lab demo files below is the exact code that I demonstrated during the lab. For more complete solutions, please be sure to view the solutions on Canvas released at the end of each week! 
 
 ### Calendar
