@@ -28,5 +28,6 @@ Week | Files | Miscellaneous | Further Learning |
 1 | No Lab | - | - |
 2 | [RMarkdown_Demo.Rmd](https://drive.google.com/file/d/1lGwhN674jxRPxGnHIm3mPxM_VKJnEN3a/view?usp=drive_link)<br><br>[Lab1Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1GgEOJs5JyuBajyUHx0QfhPr72wQAx5Tg/view?usp=drive_link) | - | - |
 3 | [Lab2Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1c_tksnqH7Vc_DyeXY_WWdmVGtTj8GZ3U/view?usp=drive_link) | - | - |
+4 | [Lab3Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1zOS0z_3RJjvh8JI30Q3wOHZwgFKkRD2z/view?usp=drive_link) | - | [See here for some normal curve slides I made previously. You may find them helpful, but some of the content goes beyond the requirements of this unit](https://drive.google.com/file/d/1VsoHFO7EpN8TcJYjBE7vxpVVffeZS0jI/view?usp=drive_link)|
 
 ----
