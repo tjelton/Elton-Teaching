@@ -30,5 +30,8 @@ Week | Files | Miscellaneous | Further Learning |
 3 | [Lab2Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1c_tksnqH7Vc_DyeXY_WWdmVGtTj8GZ3U/view?usp=drive_link) | - | - |
 4 | [Lab3Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1zOS0z_3RJjvh8JI30Q3wOHZwgFKkRD2z/view?usp=drive_link) | - | [See here for some normal curve slides I made previously. You may find them helpful, but some of the content goes beyond the requirements of this unit](https://drive.google.com/file/d/1VsoHFO7EpN8TcJYjBE7vxpVVffeZS0jI/view?usp=drive_link)|
 5 | [Normal curve qnorm and pnorm iPad examples](https://drive.google.com/file/d/1YgtLT9Y1wkreQToPUEibYdH6W5A4W1zJ/view?usp=drive_link)<br><br>[Lab4Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1gY1LTu68tpzUUtrAHvOt7NgyXsqvbtEG/view?usp=drive_link) | - | - |
+6 | [Lab5Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1sJls7XmaE4gimtZeyd4EnjZrflkjQ4O8/view?usp=drive_link) | - | - |
+7 | Assessment | - | - |
+
 
 ----
