@@ -24,5 +24,8 @@ Week | Files | Miscellaneous | Further Learning |
 2 | [RMarkdown_Demo.Rmd](https://drive.google.com/file/d/16IJWwl4c_FattZYQ1qCEop14XD3P8mzR/view?usp=drive_link)<br><br>[Lab1Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1GJuK6Vc9PW8B2B0TVbMH23JszGsOcZ0F/view?usp=drive_link) | - | - |
 3 | [Lab2Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1NV3PQatJHR-oTTPu-_LpijEZJcQ_mXfE/view?usp=drive_link) | - | - |
 4 | [Lab3Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1kqD_HeqHMx-MQI9AINLQjcu_2xxltJik/view?usp=drive_link) | - | [See here for some normal curve slides I made previously. You may find them helpful, but some of the content goes beyond the requirements of this unit](https://drive.google.com/file/d/1VsoHFO7EpN8TcJYjBE7vxpVVffeZS0jI/view?usp=drive_link)|
+5 | [Normal curve qnorm and pnorm iPad examples](https://drive.google.com/file/d/1YgtLT9Y1wkreQToPUEibYdH6W5A4W1zJ/view?usp=drive_link)<br><br>[Lab4Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1gY1LTu68tpzUUtrAHvOt7NgyXsqvbtEG/view?usp=drive_link) | Because class was cancelled by the roof board collapsing, I have posted the notes from the 12pm class here. | - |
+6 | [Lab5Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1vHJlTQgLX-DNdWhrhyPdkXBiM5D8iwlw/view?usp=drive_link) | - | - |
+7 | Assessment | - | - |
 
 ----
