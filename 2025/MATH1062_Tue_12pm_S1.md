@@ -32,6 +32,7 @@ Week | Files | Miscellaneous | Further Learning |
 5 | [Normal curve qnorm and pnorm iPad examples](https://drive.google.com/file/d/1YgtLT9Y1wkreQToPUEibYdH6W5A4W1zJ/view?usp=drive_link)<br><br>[Lab4Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1gY1LTu68tpzUUtrAHvOt7NgyXsqvbtEG/view?usp=drive_link) | - | - |
 6 | [Lab5Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1sJls7XmaE4gimtZeyd4EnjZrflkjQ4O8/view?usp=drive_link) | - | - |
 7 | Assessment | - | - |
+8 | [Lab8Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1XeqgoJCqJMyYPhVRhFiHAgr2NrJjv8fb/view?usp=drive_link) | - | [My Box Model Visualised Website - this might be slow!](https://thomaselton.shinyapps.io/hypothesis-tests-visualised/) |
 
 
 ----
