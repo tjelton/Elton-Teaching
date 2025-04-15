@@ -32,6 +32,6 @@ Week | Files | Miscellaneous | Further Learning |
 5 | [Normal curve qnorm and pnorm iPad examples](https://drive.google.com/file/d/1YgtLT9Y1wkreQToPUEibYdH6W5A4W1zJ/view?usp=drive_link)<br><br>[Lab4Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1gY1LTu68tpzUUtrAHvOt7NgyXsqvbtEG/view?usp=drive_link) | Because class was cancelled by the roof board collapsing, I have posted the notes from the 12pm class here. | - |
 6 | [Lab5Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1YYzn79ssMrem0gWUuLtWaeS9Kjy-lpM2/view?usp=drive_link) | - | - |
 7 | Assessment | - | - |
-8 | [Lab8Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1CoRTGg8v11L2E34nb2sUFsPYjTsi0uUd/view?usp=drive_link) | - | [My Box Model Visualised Website - this might be slow!](https://thomaselton.shinyapps.io/hypothesis-tests-visualised/) |
+8 | [Lab7Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1CoRTGg8v11L2E34nb2sUFsPYjTsi0uUd/view?usp=drive_link) | - | [My Box Model Visualised Website - this might be slow!](https://thomaselton.shinyapps.io/hypothesis-tests-visualised/) |
 
 ----
