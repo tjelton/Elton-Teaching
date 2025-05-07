@@ -28,6 +28,8 @@ Week | Files | Miscellaneous | Further Learning |
 6 | [Lab5Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1vHJlTQgLX-DNdWhrhyPdkXBiM5D8iwlw/view?usp=drive_link) | - | - |
 7 | Assessment | - | - |
 8 | [Lab7Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1NZ6JkUIraNHqjW7KBmucbU6BMXH4GX8j/view?usp=drive_link) | - | [My Box Model Visualised Website - this might be slow!](https://thomaselton.shinyapps.io/hypothesis-tests-visualised/) |
+9 | [Week 9 Lab Examples.Rmd](https://drive.google.com/file/d/1Rn1WYAoBHLG1siVbBo8Hc-n3DR8CXVEQ/view?usp=drive_link) | - | [See the box-model lesson on the hypothesis tests visualised site](https://thomaselton.shinyapps.io/hypothesis-tests-visualised/) |
+10 | [Lab9Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1_KsTrC-sPGWzc6z0-UUZwKDzc1K5GU2x/view?usp=drive_link) | - | Please refer to the lab clarifications doc for some good resources for this week's lab! |
 
 
 ----
