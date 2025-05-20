@@ -36,6 +36,6 @@ Week | Files | Miscellaneous | Further Learning |
 9 | [Week 9 Lab Examples.Rmd](https://drive.google.com/file/d/1Rn1WYAoBHLG1siVbBo8Hc-n3DR8CXVEQ/view?usp=drive_link) | - | [See the box-model lesson on the hypothesis tests visualised site](https://thomaselton.shinyapps.io/hypothesis-tests-visualised/) |
 10 | [Lab9Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1XNMbyM94m1UPSTEGSvcJgFMi86bP0gpx/view?usp=drive_link) | - | Please refer to the lab clarifications doc for some good resources for this week's lab! |
 11 | [Confidence Interval Formula Visualisation](https://drive.google.com/file/d/1FyFni4TEayZlf9Z7XowVpOarr0kB9T_Q/view?usp=drive_link) <br><br>[Lab10Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1BuvHmUWiPWtb4POzQ7BqmmoHeySwK6Hu/view?usp=drive_link) | - | - |
-
+12 | [Lab11Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1NvMpyPAD33iTZ0QiKSX1OsTxo4qqIqna/view?usp=drive_link) | - | - |
 
 ----
