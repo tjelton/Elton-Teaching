@@ -37,6 +37,7 @@ Week | Files | Miscellaneous | Further Learning |
 10 | [Lab9Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/108m_glgCwKMIwO_COm65nHpQhXtgszok/view?usp=drive_link) | - | Please refer to the lab clarifications doc for some good resources for this week's lab! |
 11 | [Confidence Interval Formula Visualisation](https://drive.google.com/file/d/1FyFni4TEayZlf9Z7XowVpOarr0kB9T_Q/view?usp=drive_link) <br><br>[Lab10Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1pZ5boyC2LKBKfB4Pj0IqeNzo-MIzVkx7/view?usp=drive_link) | - | - |
 12 | [Lab11Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/177bXGBPLswndWdRa5ULy1DQxThOznVJK/view?usp=drive_link) | - | - |
+13 | [Lab12Worksheet_Lab_Demo.Rmd](https://drive.google.com/file/d/1nBiho1mMW0-e6dLpKlt8ebpGyQR1nzoq/view?usp=drive_link) | - | - |
 
 
 ----
