@@ -50,6 +50,8 @@ All content is provided for education purposes. Whilst I do my best to ensure th
 
 - DATA4207/5207: Data Analysis in the Social Sciences; *Tutor, University of Sydney (2025)* 🇦🇺
 
+- STAT5002: Introduction to Statistics; *Tutor, University of Sydney (2025)* 🇦🇺
+
 ## Personal Links
 
 - [Linkedin](https://www.linkedin.com/in/thomas-elton-a86aaa215/)
