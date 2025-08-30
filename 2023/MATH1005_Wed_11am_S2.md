@@ -5,6 +5,11 @@ parent: 2023
 nav_order: 5
 ---
 
+{: .warning }
+> **Google-Drive Files**
+>
+> As the semester is now over, access to the Google Drive links has been disabled. If you are still enrolled at the university, you can still access course tutorial materials from the unit's page on Canvas.
+
 # MATH1005 Wednesady 11am Semester 2
 
 {: .warning }
